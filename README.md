@@ -77,4 +77,4 @@ For future analyses, the format of the printed results can be changed around. Fi
 
 ---
 
-In summary, the code provided can be formatted and reused for other election data sets for other elections around the country. Future analysts are not limited to the suggest tweaks shown above, more editing can be done to compile and reference data in other various ways.
+In summary, the code provided can be formatted and reused for other election data sets for other elections around the country. Future analysts are not limited to the suggested tweaks shown above, more editing can be done to compile and reference data in other various ways. With such a maleable code with declarations and comments, this code can be edited for future elections with little hassle making it not only reliable but also highly efficient and useful.
